@@ -1,1 +1,1 @@
-shell
+system dev
